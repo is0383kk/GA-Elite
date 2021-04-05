@@ -1,4 +1,5 @@
 # GA_Elite
+編集中
 
 <div>
 	<img src='/img/ga2.png'width="420px">
